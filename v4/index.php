@@ -18,7 +18,18 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
 
 
- 
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11402348297"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11402348297');
+</script>
+
+
+
     <script type="text/javascript"
     src="https://www.jerlnk.com/scripts/sdk/everflow.js"></script>
 
@@ -16753,7 +16764,7 @@ postCall("https://receiver.ceeleads.info/leads/post2", data).then(x => x.json())
 
                                             } else {
                                                 
-                                                window.location.href="/thank-you.php?num="+ payout
+                                                window.location.href="/thank-you2.php?num="+ payout
                                                     
                                                
                                             }

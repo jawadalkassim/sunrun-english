@@ -33,7 +33,25 @@ EF.conversion({
     amount: num,
 });
 </script>
-    
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11402348297"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11402348297');
+</script>
+
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11402348297/xMK0CP2ltI0ZEImOiL0q',
+      'value': num,
+      'currency': 'USD'
+  });
+</script>
+
     <script>
         window.price = 0.00;
         window.s1 = ''; 
