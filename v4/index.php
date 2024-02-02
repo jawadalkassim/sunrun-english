@@ -30,9 +30,9 @@
 
 
 
-    <script type="text/javascript"
-    src="https://www.jerlnk.com/scripts/sdk/everflow.js"></script>
-
+<script type="text/javascript"
+    src="https://www.efgnv3trk.com/scripts/sdk/everflow.js"></script>
+    
 <script type="text/javascript">
 EF.click({
     offer_id: EF.urlParameter('oid'),
