@@ -234,10 +234,7 @@ EF.conversion({
         <div class="container">
             <div class="solar-footer-content">
 
-                <!-- <div class="row">
-                    <div class="footer-menu">
-                        <div class="form-group tcpa"> <label id="tcpa" class="pageid-tcpa"><input type="hidden" id="leadid_tcpa_disclosure"> Al enviar su información, nos autoriza a nosotros y a hasta 4 de nuestros<a href="https://homeimprovement.name/installer-list" target="_blank" rel="nofollow">Empresas solares asociadas</a> para llamarlo y enviarle mensajes SMS o mensajes de texto a su número. Su consentimiento aquí no se basa en una condición de compra.</label> </div>
-                    </div> -->
+     
                 </div>
             </div>
 
